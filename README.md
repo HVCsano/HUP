@@ -2,8 +2,8 @@
 
 ## HU
 
-Itt az új pénzszámoló alkalmazás! A világ első pénzváltó számolója, amely képes magyar pénzről (HUP) váltani!
+Itt az új valutaváltó alkalmazás! A világ első olyan valuta számolója, amely képes Magyar Pénzről (HUP) váltani!
 
 ## EN
 
-The newest price calculator app! World's first one, that can calculate with Hungarian Pénz (HUP)!
+The newest currency calculator app! World's first one, that can calculate with Hungarian Pénz (HUP)!
