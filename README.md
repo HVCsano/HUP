@@ -1,7 +1,9 @@
-# Tauri + SvelteKit + TypeScript
+# Hungarian Pénz (HUP, formerly HUF) App!
 
-This template should help get you started developing with Tauri, SvelteKit and TypeScript in Vite.
+## HU
 
-## Recommended IDE Setup
+Itt az új pénzszámoló alkalmazás! A világ első pénzváltó számolója, amely képes magyar pénzről (HUP) váltani!
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+## EN
+
+The newest price calculator app! World's first one, that can calculate with Hungarian Pénz (HUP)!
